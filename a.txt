@@ -1,2 +1,5 @@
-num = 10
+num = 1
 name = 'zs'
+
+age = 22
+
